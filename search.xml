@@ -4,13 +4,75 @@
   
     
     <entry>
-      <title></title>
-      <link href="/2023/04/06/test/"/>
-      <url>/2023/04/06/test/</url>
+      <title>搭建博客第四篇文章</title>
+      <link href="/2023/04/06/2023-4-6%E7%AE%80%E5%8E%86%E5%8D%9A%E5%AE%A2%E7%AC%AC%E5%9B%9B%E7%AF%87%E6%96%87%E7%AB%A0/"/>
+      <url>/2023/04/06/2023-4-6%E7%AE%80%E5%8E%86%E5%8D%9A%E5%AE%A2%E7%AC%AC%E5%9B%9B%E7%AF%87%E6%96%87%E7%AB%A0/</url>
       
         <content type="html"><![CDATA[<h1 id="这是我的大标题"><a href="#这是我的大标题" class="headerlink" title="这是我的大标题"></a>这是我的大标题</h1><h2 id="要怎么描述这些事情才不会显得我迷茫"><a href="#要怎么描述这些事情才不会显得我迷茫" class="headerlink" title="要怎么描述这些事情才不会显得我迷茫"></a>要怎么描述这些事情才不会显得我迷茫</h2><p>shell scripts</p><figure class="highlight shell"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line">funtion install_vscode()&#123;</span><br><span class="line">    sudo apt install vscode</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure><blockquote><p>you should install Markdow All in one .</p></blockquote>]]></content>
       
       
+      <categories>
+          
+          <category> 书度索求 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 读后感 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>搭建博客第三篇文章</title>
+      <link href="/2023/04/05/2023-4-5%E7%AE%80%E5%8E%86%E5%8D%9A%E5%AE%A2%E7%AC%AC%E4%B8%89%E7%AF%87%E6%96%87%E7%AB%A0/"/>
+      <url>/2023/04/05/2023-4-5%E7%AE%80%E5%8E%86%E5%8D%9A%E5%AE%A2%E7%AC%AC%E4%B8%89%E7%AF%87%E6%96%87%E7%AB%A0/</url>
+      
+        <content type="html"><![CDATA[<h1 id="这是我的大标题"><a href="#这是我的大标题" class="headerlink" title="这是我的大标题"></a>这是我的大标题</h1><h2 id="要怎么描述这些事情才不会显得我迷茫"><a href="#要怎么描述这些事情才不会显得我迷茫" class="headerlink" title="要怎么描述这些事情才不会显得我迷茫"></a>要怎么描述这些事情才不会显得我迷茫</h2><p>shell scripts</p><figure class="highlight shell"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line">funtion install_vscode()&#123;</span><br><span class="line">    sudo apt install vscode</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure><blockquote><p>you should install Markdow All in one .</p></blockquote>]]></content>
+      
+      
+      <categories>
+          
+          <category> 杂乱无章 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 杂谈 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>搭建博客第二篇文章</title>
+      <link href="/2023/04/04/2023-4-4%E7%AE%80%E5%8E%86%E5%8D%9A%E5%AE%A2%E7%AC%AC%E4%BA%8C%E7%AF%87%E6%96%87%E7%AB%A0/"/>
+      <url>/2023/04/04/2023-4-4%E7%AE%80%E5%8E%86%E5%8D%9A%E5%AE%A2%E7%AC%AC%E4%BA%8C%E7%AF%87%E6%96%87%E7%AB%A0/</url>
+      
+        <content type="html"><![CDATA[<h1 id="这是我的大标题"><a href="#这是我的大标题" class="headerlink" title="这是我的大标题"></a>这是我的大标题</h1><h2 id="要怎么描述这些事情才不会显得我迷茫"><a href="#要怎么描述这些事情才不会显得我迷茫" class="headerlink" title="要怎么描述这些事情才不会显得我迷茫"></a>要怎么描述这些事情才不会显得我迷茫</h2><p>shell scripts</p><figure class="highlight shell"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line">funtion install_vscode()&#123;</span><br><span class="line">    sudo apt install vscode</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure><blockquote><p>you should install Markdow All in one .</p></blockquote>]]></content>
+      
+      
+      <categories>
+          
+          <category> 生活简影 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 杂谈 </tag>
+            
+        </tags>
       
     </entry>
     
@@ -24,6 +86,18 @@
         <content type="html"><![CDATA[<h2 id="这是我的第一篇文章"><a href="#这是我的第一篇文章" class="headerlink" title="这是我的第一篇文章"></a>这是我的第一篇文章</h2>]]></content>
       
       
+      <categories>
+          
+          <category> 技术学习 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> vue前端 </tag>
+            
+        </tags>
       
     </entry>
     
