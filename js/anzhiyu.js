@@ -1,3 +1,4 @@
+var navMusicEl = document.getElementById("nav-music");
 var anzhiyu = {
     // 音乐节目切换背景
     changeMusicBg: function (isChangeBg = true) {
@@ -49,6 +50,18 @@ var anzhiyu = {
         anMusicPage.querySelector('.aplayer-list').classList.remove("aplayer-list-hide");
       })
     },
+     //切换音乐播放状态
+    musicToggle: function (changePaly = true) {
+      if (!anzhiyu_musicFirst) {
+        musicBindEvent();
+        anzhiyu_musicFirst = true;
+      }
+      let msgPlay = '<i class="fa-solid fa-play"></i><span>播放音乐</span>'; // 此处可以更改为你想要显示的文字
+      let msgPause = '<i class="fa-solid fa-pause"></i><span>暂停音乐</span>'; // 同上，但两处均不建议更改
+      if (anzhiyu_musicPlaying) {
+        navMusicEl.classList.remove("playing");
+      }
+    }
   }
   
   // 调用
