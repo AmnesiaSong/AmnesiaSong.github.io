@@ -33,7 +33,7 @@
       <link href="/2023/04/05/2023-4-5%E7%AE%80%E5%8E%86%E5%8D%9A%E5%AE%A2%E7%AC%AC%E4%B8%89%E7%AF%87%E6%96%87%E7%AB%A0/"/>
       <url>/2023/04/05/2023-4-5%E7%AE%80%E5%8E%86%E5%8D%9A%E5%AE%A2%E7%AC%AC%E4%B8%89%E7%AF%87%E6%96%87%E7%AB%A0/</url>
       
-        <content type="html"><![CDATA[<h1 id="这是我的大标题"><a href="#这是我的大标题" class="headerlink" title="这是我的大标题"></a>这是我的大标题</h1><h2 id="要怎么描述这些事情才不会显得我迷茫"><a href="#要怎么描述这些事情才不会显得我迷茫" class="headerlink" title="要怎么描述这些事情才不会显得我迷茫"></a>要怎么描述这些事情才不会显得我迷茫</h2><p>shell scripts<br><figure class="highlight shell"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line">funtion install_vscode()&#123;</span><br><span class="line">    sudo apt install vscode</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure></p><blockquote><p>you should install Markdow All in one .</p></blockquote>]]></content>
+        <content type="html"><![CDATA[<h1 id="这是我的第二篇文章"><a href="#这是我的第二篇文章" class="headerlink" title="这是我的第二篇文章"></a>这是我的第二篇文章</h1><h2 id="要怎么描述这些事情才不会显得我迷茫"><a href="#要怎么描述这些事情才不会显得我迷茫" class="headerlink" title="要怎么描述这些事情才不会显得我迷茫"></a>要怎么描述这些事情才不会显得我迷茫</h2><p>shell scripts<br><figure class="highlight shell"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line">funtion install_vscode()&#123;</span><br><span class="line">    sudo apt install vscode</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure></p><blockquote><p>you should install Markdow All in one .</p></blockquote>]]></content>
       
       
       <categories>
@@ -79,23 +79,23 @@
     
     
     <entry>
-      <title>搭建博客第一篇文章</title>
+      <title>逃避不能逃避的人，认识不能认识的人</title>
       <link href="/2023/04/03/2023-4-3%E5%BB%BA%E7%AB%8B%E5%8D%9A%E5%AE%A2%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0/"/>
       <url>/2023/04/03/2023-4-3%E5%BB%BA%E7%AB%8B%E5%8D%9A%E5%AE%A2%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0/</url>
       
-        <content type="html"><![CDATA[<h2 id="这是我的第一篇文章"><a href="#这是我的第一篇文章" class="headerlink" title="这是我的第一篇文章"></a>这是我的第一篇文章</h2>]]></content>
+        <content type="html"><![CDATA[<h1 id="Hello！博客上线啦"><a href="#Hello！博客上线啦" class="headerlink" title="Hello！博客上线啦"></a>Hello！博客上线啦</h1><p>​        如果时间有记忆，那它应该记得这是在还三年前的债吧!而我就是当年的欠债人，跟随Fomalhaut🥝，参考Hipeach，张洪Heo，安知鱼等大佬魔改成了现在的Moonquakes博客，基于hexo的butterfly主题挂载github pages。</p><h2 id="回溯缘由"><a href="#回溯缘由" class="headerlink" title="回溯缘由"></a>回溯缘由</h2><p>​        19年末武汉疫情爆发，使我和众多“狮鹫们<sup>[1]</sup>”还尚未适应大学就被印上了注定不完整的烙印。虚妄的大一，湮灭在游戏，然而思绪的繁杂下我知晓了HSP<sup>[2]</sup>并坦然接收，对一切新鲜事物都好奇，对经历过的事情有着更强烈的感受以及深度加工信息，导致我不断地徘徊在所谓的痛苦与快乐中，需要更多的停机时间供我决策。焦虑，迷茫，惘然促使我产生了制作博客的念头，微信是交流工具却不是分享窗口，聒噪的生人<sup>[3]</sup>反而愈发使我情绪烦闷。新的平台，互联网的面具，没有利益的冲突，20年的想法就是逃避，逃避不能逃避的人，认识不认识的人，但是因为自己的懒惰以及容忍使得计划一直是计划。</p><p><img src="https://s1.ax1x.com/2023/04/19/p9FQitS.jpg" alt="核酸管长"></p><h2 id="重启项目"><a href="#重启项目" class="headerlink" title="重启项目"></a>重启项目</h2><p>​        也是偶然间回忆起来自己还有件事没有完成，又或许是忘记的太多了，能拾起来的却很少的缘故（拖延症以及不自律真的很害人！）。考研失败，找工作失利，返校以来的每一天都是在焦虑中渡过，三月底收到两个offer虽然不是计算机专业，但也总算是解决了燃眉之急，闲下来的功夫就给博客安排上了进程，20年的意气风发终究是被吹散了，多个版本都被我自身技术能力不足予以否定，最终敲定了第一版博客采用hexo+GitHub Pages上线，历经魔改之后这是最终呈现的样子（突然感觉自己真的不适合干设计啊，改的丑的我自己差点不能接受┭┮﹏┭┮）。不得不说安知鱼大佬的音乐播放页面真的很好看，相册的话我安排了三个分别是壁纸、摄影和小丁<sup>[4]</sup>。电影推荐是我自己看的，不合您胃口请勿喷（哦对，评论系统我没搭还，有事情可以发邮件给我在首页的图标）。问题横生👇</p><p><img src="https://s1.ax1x.com/2023/04/19/p9FQ9Tf.png" alt="bug"></p><h2 id="离开浪浪山"><a href="#离开浪浪山" class="headerlink" title="离开浪浪山"></a>离开浪浪山</h2><p>​        “充电器一拔，我和浪浪山告别了”这是前段时间火遍网络的一句话，回想自己，好像拔充电器确实是全国游子出门的“统一仪式”，而我也将在2023年的7月份离开我的浪浪山前往新的城市，我毕业啦！另者，文章兀然已到尾声，我想过标签用“终记”，“朝北的向日葵”，但突然想起的浪浪山反而在我心里找到了它的位置，结束并不一定悲伤，也不是否定，他代表着新的开始，意指我博客的开端，人生走入下一个路口。</p><div class="note success modern"><p>也许，山外会有所不同，我们翻越重重山岗也不知道它的后面是不是另一个浪浪山，但是哪怕重山叠峻，我们依旧会努力地前行。</p></div><hr><details class="folding-tag" cyan open><summary> 注释 </summary>              <div class='content'>              <ul><li>[1] 狮鹫们是我们学校对2019级新生的称呼。</li><li>[2]HSP:高敏感人群。</li><li>[3]聒噪的生人:意指虽然有着微信或者QQ好友，但是实质上在你心里不熟的人留言让你很反感，所以聒噪。</li><li>[4]小丁: B站up主54小丁，中山大学博士在读，理想型女友，也仅仅是理想型。</li></ul>              </div>            </details>]]></content>
       
       
       <categories>
           
-          <category> 技术学习 </category>
+          <category> 杂乱无章 </category>
           
       </categories>
       
       
         <tags>
             
-            <tag> vue前端 </tag>
+            <tag> 杂谈 </tag>
             
         </tags>
       
